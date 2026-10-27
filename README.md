@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, Roberto Hernandez
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am currently attending UTSA classes full time to achieve my bachelor's degree in cybersecurity while working part time as a delivery driver and raising my newborn son. It's very challenging to juggle it all but very fulfilling at the same time as I gain fulfilment by solving issues.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +13,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"Looking forward to being a part of the team!"_
